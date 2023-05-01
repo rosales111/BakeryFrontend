@@ -1,0 +1,7 @@
+C:\Users\rosal\OneDrive\Documents\source\repos\Spring2023MIS321\BakeryFrontend\api\obj\Debug\net7.0\api.csproj.AssemblyReference.cache
+C:\Users\rosal\OneDrive\Documents\source\repos\Spring2023MIS321\BakeryFrontend\api\obj\Debug\net7.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\OneDrive\Documents\source\repos\Spring2023MIS321\BakeryFrontend\api\obj\Debug\net7.0\api.AssemblyInfoInputs.cache
+C:\Users\rosal\OneDrive\Documents\source\repos\Spring2023MIS321\BakeryFrontend\api\obj\Debug\net7.0\api.AssemblyInfo.cs
+C:\Users\rosal\OneDrive\Documents\source\repos\Spring2023MIS321\BakeryFrontend\api\obj\Debug\net7.0\api.csproj.CoreCompileInputs.cache
+C:\Users\rosal\OneDrive\Documents\source\repos\Spring2023MIS321\BakeryFrontend\api\obj\Debug\net7.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rosal\OneDrive\Documents\source\repos\Spring2023MIS321\BakeryFrontend\api\obj\Debug\net7.0\api.MvcApplicationPartsAssemblyInfo.cache

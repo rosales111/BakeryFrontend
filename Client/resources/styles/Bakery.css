@@ -1,0 +1,33 @@
+/* Set body background color */
+body {
+    background-color: #f7e6d1;
+  }
+  
+  /* Style the buttons */
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #8f4f36;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #6c3d28;
+  }
+  
+  /* Style the result text */
+  #result {
+    margin: 30px auto;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #8f4f36;
+  }
+  
